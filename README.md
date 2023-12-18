@@ -8,4 +8,4 @@ I have made this project to learn JS by building applications.
 
 
 
-⭐ Deployed at: (<>)
+⭐ Deployed at: (<https://flower-pot-to-dos.netlify.app/>)
